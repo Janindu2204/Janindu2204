@@ -1,3 +1,4 @@
+<img align"right" scr="https://visitor-badge.laobi.icu/badge?page_id=JAnindu2204.Janindu2204" >
 ## Hi there 👋
 
 <!--
