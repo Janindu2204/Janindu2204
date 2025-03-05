@@ -74,4 +74,4 @@ jobs:
 
         env:
 
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: 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
